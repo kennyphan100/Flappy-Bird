@@ -1,5 +1,4 @@
-# Breakout Game
-
+# Flappy Bird
 
 This application is an imitation of the game Flappy Bird programmed using Java and Swing for the GUI.
 
